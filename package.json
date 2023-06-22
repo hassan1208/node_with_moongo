@@ -1,0 +1,16 @@
+{
+  "name": "node-with-mongo",
+  "version": "1.0.0",
+  "description": "node with mongoo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "server": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^5.6.0",
+    "nodemon": "^2.0.22"
+  }
+}
